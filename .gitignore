@@ -1,6 +1,11 @@
 # History files
 .Rhistory
 .Rapp.history
+scripts/
+images/
+herp2.csv
+github4.Rproj
+data/
 
 # Session Data files
 .RData
